@@ -1,2 +1,3 @@
 alert('primer java');
 windows.alert("segundo");
+alert('ditado desde pc');
